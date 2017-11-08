@@ -38,8 +38,8 @@
       <file leaf-file-name="CreateQRCode.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wwg/zxing/CreateQRCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="30" />
+            <state relative-caret-position="305">
+              <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -619,15 +619,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510123079752</updated>
-      <workItem from="1510123083551" duration="9716000" />
+      <workItem from="1510123083551" duration="10240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9716000" />
+    <option name="totallyTimeSpent" value="10240000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -693,8 +693,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wwg/zxing/CreateQRCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="30" />
+        <state relative-caret-position="305">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
