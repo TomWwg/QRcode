@@ -24,7 +24,7 @@ public class CreateQRCode {
         //扫描二维码时产生的链接
         String contents = "http://write.blog.csdn.net/postlist";
 
-        //HashMap的默认大小为16，新建时候根据阿里规范，需要写上大小
+        //HashMap的默认大小为16，新建Map时候根据阿里规范，需要写上大小
         HashMap hints = new HashMap(16);
         hints.put(EncodeHintType.CHARACTER_SET, "utf-8");
         //设置二维码的容错等级
