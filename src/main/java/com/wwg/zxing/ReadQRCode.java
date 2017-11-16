@@ -2,7 +2,6 @@ package com.wwg.zxing;
 
 import com.google.zxing.*;
 import com.google.zxing.common.HybridBinarizer;
-import com.sun.media.jfxmedia.track.Track;
 import com.wwg.utils.BufferedImageLuminanceSource;
 
 import javax.imageio.ImageIO;
@@ -13,6 +12,7 @@ import java.util.HashMap;
 
 /**
  * Created by wwg on 2017/11/15.
+ * @author wwg
  */
 public class ReadQRCode {
 
