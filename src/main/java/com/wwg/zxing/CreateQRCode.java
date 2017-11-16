@@ -6,6 +6,7 @@ import com.google.zxing.MultiFormatWriter;
 import com.google.zxing.WriterException;
 import com.google.zxing.common.BitMatrix;
 import com.google.zxing.qrcode.decoder.ErrorCorrectionLevel;
+import com.wwg.utils.MatrixToImageWriter;
 
 import java.io.File;
 import java.io.IOException;
@@ -35,7 +36,7 @@ public class CreateQRCode {
         try {
             BitMatrix bitMatrix = new MultiFormatWriter().encode(contents, BarcodeFormat.QR_CODE, width, hight, hints);
             //保存的路径
-            File file = new File("C:/Users/admin/Desktop/img.png");
+            File file = new File("C:/Users/admin/Desktop/img1.png");
             MatrixToImageWriter.writeToFile(bitMatrix, format, file);
         } catch (WriterException e) {
             e.printStackTrace();

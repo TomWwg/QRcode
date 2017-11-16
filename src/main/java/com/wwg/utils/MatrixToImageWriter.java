@@ -1,4 +1,4 @@
-package com.wwg.zxing;
+package com.wwg.utils;
 
 import com.google.zxing.common.BitMatrix;
 
