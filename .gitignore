@@ -2,5 +2,3 @@
 *.class/
 *.idea/*.xml/
 *.target/*/
-
-workspace.xml
